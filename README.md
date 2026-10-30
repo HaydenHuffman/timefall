@@ -1,6 +1,6 @@
-# Timefall
+# Timefall Audio
 
-Official website for Timefall audio production and live performance.
+Official website for Timefall Audio production and live performance.
 
 ## Development
 
